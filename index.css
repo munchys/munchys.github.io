@@ -21,6 +21,7 @@ ul li::before {
   content: "\25CB";
   color: #3873b3;
   margin-right: 3px;
+  font-size: 0.6rem;
 }
 .competences {
   display: flex;
