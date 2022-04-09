@@ -32,7 +32,7 @@ _4 rue Henri-Théodore Driollet Nantes_
 
 ## Compétences
 ---
-<div class="competences">
+<span class="competences">
 
 
 
