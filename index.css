@@ -27,8 +27,8 @@ ul li::before {
   display: flex;
   flex-wrap: wrap;
 }
-.container-lg {
+/* .container-lg {
   max-width: 1012px;
   margin-right: auto;
   margin-left: auto;
-}
+} */
