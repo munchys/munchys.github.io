@@ -32,9 +32,6 @@ _4 rue Henri-Théodore Driollet Nantes_
 
 ## Compétences
 ---
-<div class="competences">
-
-<div class="section">
 
 ### Langages
 - PHP 7
@@ -42,28 +39,24 @@ _4 rue Henri-Théodore Driollet Nantes_
 - Typescript/javascript(ES6)
 - SQL
 - bash/zsh
-</div>
-<div class="section">
+
 
 ### Frameworks
 - Pyramid (Python)
 - vue3
 - Django
-</div>
-<div class="section">
+
 
 ### Outils 
 - git/gitlab
 - phpstorm
 - docker
 - aws
-</div>
-<div class="section">
+
 
 ### Base de données
 - postgreSQL
-</div>
-<div class="section">
+
 
 ### Systèmes
 - Windows, Linux (Arch/Debian/Ubuntu)
