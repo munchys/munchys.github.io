@@ -64,7 +64,7 @@ _4 rue Henri-Théodore Driollet Nantes_
 ### Systèmes
 - Windows, Linux (Arch/Debian/Ubuntu)
 
-</div>
+</span>
 
 ## Expériences
 ---
