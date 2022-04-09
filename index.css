@@ -11,7 +11,7 @@ h2 {
 }
 ul {
   list-style: none;
-  padding: 0;
+  padding-left: 0;
 }
 ul li {
   margin: none;
@@ -21,11 +21,13 @@ ul li::before {
   content: "\25CB";
   color: #3873b3;
   margin-right: 3px;
-  font-size: 0.6rem;
 }
 .competences {
   display: flex;
   flex-wrap: wrap;
+}
+.entetes{
+    margin-top: 1rem;
 }
 /* .container-lg {
   max-width: 1012px;
