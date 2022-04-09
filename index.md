@@ -32,6 +32,9 @@ _4 rue Henri-Théodore Driollet Nantes_
 
 ## Compétences
 ---
+<div class="competences">
+
+
 
 ### Langages
 - PHP 7
@@ -60,8 +63,6 @@ _4 rue Henri-Théodore Driollet Nantes_
 
 ### Systèmes
 - Windows, Linux (Arch/Debian/Ubuntu)
-
-</div>
 
 </div>
 
