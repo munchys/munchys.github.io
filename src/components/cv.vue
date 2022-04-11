@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    <h2 class="souligne">Compétences</h2>
+    <h2 class="titre-before souligne">Compétences</h2>
     <div class="container-lg d-flex flex-wrap">
       <div class="section p-2">
         <h3>Langages</h3>
@@ -64,7 +64,7 @@
         </ul>
       </div>
     </div>
-    <h2 class="souligne">Expériences</h2>
+    <h2 class="titre-before souligne">Expériences</h2>
     <div class="container-lg">
       <div class="row">
         <div class="col-2 col-sm-2">
@@ -72,7 +72,10 @@
         </div>
         <div class="col-10 col-sm-10">
           <p>
-            <strong>Développeur Fullstack, LeanCo, Nantes, France</strong>
+            <strong>
+              <em>Développeur Fullstack</em>
+              , LeanCo, Nantes, France</strong
+            >
             :
           </p>
 
@@ -116,7 +119,7 @@
         </div>
       </div>
 
-      <h2 class="souligne">Éducation</h2>
+      <h2 class="titre-before souligne">Éducation</h2>
       <div class="container">
         <p>
           <strong
@@ -135,11 +138,10 @@
         </ul>
       </div>
 
-      <h2 class="souligne">Divers</h2>
-      <div class="conteinr-lg">
+      <h2 class="titre-before souligne">Divers</h2>
+      <div class="container-g">
         <p>Guitare: Bossa nova, blues</p>
         <p>veille: Rust, programmation fonctionelle</p>
-        coucoucou
       </div>
     </div>
   </div>
@@ -182,9 +184,14 @@ ul li::before {
 .entetes {
   margin-top: 1rem;
 }
-/* .container-lg {
-  max-width: 1012px;
-  margin-right: auto;
-  margin-left: auto;
-} */
+.titre-before::before {
+  content: "";
+  position: relative;
+  display: inline-block;
+  height: 0.5rem;
+  min-width: 3rem;
+  margin-bottom: 0.3rem;
+  margin-right: 0.2rem;
+  background-color: #3873b3;
+}
 </style>
