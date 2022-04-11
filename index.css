@@ -6,7 +6,7 @@
   border-bottom: solid 2px #3873b3;
   margin-bottom: 0;
 }
-h2 {
+.souligne {
     border-bottom: solid 2px #3873b3;
 }
 ul {
@@ -21,10 +21,6 @@ ul li::before {
   content: "\25CB";
   color: #3873b3;
   margin-right: 3px;
-}
-.competences {
-  display: flex;
-  flex-wrap: wrap;
 }
 .entetes{
     margin-top: 1rem;
