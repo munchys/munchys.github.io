@@ -1,14 +1,4 @@
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="index.css" />
-  </head>
+<template>
   <div class="container-lg">
     <div class="entetes">
       <div class="d-flex justify-content-between">
@@ -125,30 +115,76 @@
           <p>Migration d'une application du CMS EzPublish vers Symphony 2</p>
         </div>
       </div>
-  
-  
-    <h2 class="souligne">Éducation</h2>
-    <div class="container">
-      <p>
-        <strong
-          >2017-2019 Responsable en ingénierie logiciel, CESI Nantes</strong
-        >: SQL, 
-      </p>
 
-      <p>
+      <h2 class="souligne">Éducation</h2>
+      <div class="container">
+        <p>
+          <strong
+            >2017-2019 Responsable en ingénierie logiciel, CESI Nantes</strong
+          >: Java, PHP, Javascript, nodejs, SQL Développment d'un site de
+          roulette en node.js, avec Websockets,
+        </p>
+
         <strong>2013 Dévelopeur logiciel AFPA ANGERS</strong>:
         <ul>
-          <li>Écrire des requêtes avec langage de base de données SQL sur MSSQL</li>
+          <li>
+            Écrire des requêtes avec langage de base de données SQL sur MSSQL
+          </li>
           <li>Développer des interfaces homme-machine avec C# .Net</li>
           <li>Concevoir des sites web avec PHP et Javascript</li>
         </ul>
-      </p>
-    </div>
+      </div>
 
-    <h2 class="souligne">Divers</h2>
-    <div class="conteinr-lg">
-    <p>Guitare: Bossa nova, blues</p>
-    <p>veille: Rust, programmation fonctionelle</p>
+      <h2 class="souligne">Divers</h2>
+      <div class="conteinr-lg">
+        <p>Guitare: Bossa nova, blues</p>
+        <p>veille: Rust, programmation fonctionelle</p>
+        coucoucou
+      </div>
+    </div>
   </div>
-  </div>
-</html>
+</template>
+
+<script lang="ts">
+import { defineComponent } from "vue";
+export default defineComponent({
+  name: "HelloWorld",
+});
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style>
+@import "../assets/index.css";
+.section {
+  width: 33%;
+}
+.section h3 {
+  display: inline-block;
+  border-bottom: solid 2px #3873b3;
+  margin-bottom: 0;
+}
+.souligne {
+  border-bottom: solid 2px #3873b3;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+ul li {
+  margin: none;
+  padding: 0;
+}
+ul li::before {
+  content: "\25CB";
+  color: #3873b3;
+  margin-right: 3px;
+}
+.entetes {
+  margin-top: 1rem;
+}
+/* .container-lg {
+  max-width: 1012px;
+  margin-right: auto;
+  margin-left: auto;
+} */
+</style>
