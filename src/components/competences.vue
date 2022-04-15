@@ -3,19 +3,20 @@
     <div class="section p-2">
       <h3>Langages</h3>
       <ul>
-        <li>PHP 7</li>
-        <li>Python3</li>
         <li>Typescript</li>
-        <li>Javascript( > ES6)</li>
+        <li>Javascript</li>
+        <li>PHP 7</li>
         <li>SQL</li>
+        <li>Python3</li>
         <li>bash/zsh</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Frameworks</h3>
       <ul>
-        <li>Pyramid (Python)</li>
         <li>vue3</li>
+        <li>jQuery</li>
+        <li>Pyramid (Python)</li>
       </ul>
     </div>
     <div class="section p-2">
@@ -31,6 +32,8 @@
       <h3>Base de données</h3>
       <ul>
         <li>postgreSQL</li>
+        <li>MySQL</li>
+        <li>MonGO DB</li>
       </ul>
     </div>
     <div class="section p-2">

@@ -33,8 +33,9 @@
         :
         <p>
           Java, PHP, Javascript, nodejs, SQL Développment d'un site de roulette
-          en node.js, avec Websockets,
+          de casino en node.js, avec Websockets,
         </p>
+        <p>Technologies: NodeJS, MySQL</p>
       </div>
 
       <div class="row">

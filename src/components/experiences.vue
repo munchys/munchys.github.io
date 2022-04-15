@@ -24,8 +24,8 @@
           <li>Migration de l'application jQuery vers vue3/typescript</li>
           <li>
             <i>Technologies utilisées: </i>
-            PHP, Vue3/jQuery, Postgres, gitlab, git, docker, Typescript,
-            webpack, AWS EC2
+            Typescript, Vue3/jQuery, Postgres, PHP, GitLab, git, docker,
+            Typescript, webpack, AWS EC2, AWS RDS
           </li>
         </ul>
       </div>
@@ -39,8 +39,8 @@
           de 100% en utilisant le multiprocessing
         </div>
         <div>
-          Dévelopment d'une api de localisation d'adresse - mongoDB - Python
-          (Pyramid) technlogies: Python, Pyramid, MongoDB
+          Dévelopment d'une api de localisation d'adresse (Pyramid) technlogies:
+          Python, Pyramid, MongoDB
         </div>
       </div>
     </div>
