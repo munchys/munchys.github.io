@@ -69,41 +69,5 @@ import Experience from "./experiences.vue";
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
 @import "../assets/index.css";
-.section {
-  width: 33%;
-}
-.section h3 {
-  display: inline-block;
-  border-bottom: solid 2px #3873b3;
-  margin-bottom: 0;
-}
-.souligne {
-  border-bottom: solid 2px #3873b3;
-}
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-ul li {
-  margin: none;
-  padding: 0;
-}
-ul li::before {
-  content: "\25CB";
-  color: #3873b3;
-  margin-right: 3px;
-}
-.entetes {
-  margin-top: 1rem;
-}
-.titre-before::before {
-  content: "";
-  position: relative;
-  display: inline-block;
-  height: 0.5rem;
-  min-width: 3rem;
-  margin-bottom: 0.3rem;
-  margin-right: 0.2rem;
-  background-color: #3873b3;
-}
+
 </style>

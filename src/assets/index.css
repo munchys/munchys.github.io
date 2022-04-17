@@ -7,7 +7,7 @@
   margin-bottom: 0;
 }
 .souligne {
-    border-bottom: solid 2px #3873b3;
+  border-bottom: solid 2px #3873b3;
 }
 ul {
   list-style: none;
@@ -22,11 +22,16 @@ ul li::before {
   color: #3873b3;
   margin-right: 3px;
 }
-.entetes{
-    margin-top: 1rem;
+.entetes {
+  margin-top: 1rem;
 }
-/* .container-lg {
-  max-width: 1012px;
-  margin-right: auto;
-  margin-left: auto;
-} */
+.titre-before::before {
+  content: "";
+  position: relative;
+  display: inline-block;
+  height: 0.5rem;
+  min-width: 3rem;
+  margin-bottom: 0.3rem;
+  margin-right: 0.2rem;
+  background-color: #3873b3;
+}
