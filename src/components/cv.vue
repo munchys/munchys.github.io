@@ -8,40 +8,38 @@
         </div>
 
         <div class="d-flex flex-column flex-end text-end">
-          <i>4 rue Henri-Théodore Driollet <br />44300 Nantes <br />FRANCE</i
-          ><br />
-          <i>tél: <a href="tel:+33 663212663">+33 663212663</a> </i><br />
-          <i
-            >courriel:
-            <a href="mailto:fabien.moriniere@gmail.com"
-              >fabien.moriniere@gmail.com</a
-            >
+          <i>4 rue Henri-Théodore Driollet <br />44300 Nantes <br />FRANCE </i>
+          <i>tél: <a href="tel:+33663212663">+33 663212663</a> </i><br />
+          <i>
+            courriel:
+            <a href="mailto:fabien.moriniere@gmail.com">
+              fabien.moriniere@gmail.com
+            </a>
           </i>
         </div>
       </div>
     </div>
 
-    <h2 class="titre-before souligne">Compétences</h2>
+   
     <Competence />
-    <h2 class="titre-before souligne">Expériences</h2>
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
     <div class="row">
       <div class="col-2 col-sm-2"><b> 2017-2019</b></div>
       <div class="col-10 col-sm-10">
-        <b> Responsable en ingénierie logiciel, CESI Nantes </b>
+        <b> Responsable en ingénierie logiciel, CESI Nantes, niveau DESS </b>
         :
         <p>
           Java, PHP, Javascript, nodejs, SQL Développment d'un site de roulette
           de casino en node.js, avec Websockets,
+          <br />Technologies: NodeJS, MySQL, Websockets
         </p>
-        <p>Technologies: NodeJS, MySQL</p>
       </div>
 
       <div class="row">
         <div class="col-2 col-sm-2"><b> 2013</b></div>
         <div class="col-10 col-sm-10">
-          <b> Dévelopeur logiciel AFPA ANGERS</b>:
+          <b> Dévelopeur logiciel AFPA ANGERS, niveau DEC-T</b>:
           <ul>
             <li>
               Écrire des requêtes avec langage de base de données SQL sur MSSQL
@@ -55,8 +53,10 @@
 
     <h2 class="titre-before souligne">Divers</h2>
     <div class="container-g">
-      <p>Guitare: Bossa nova, blues</p>
-      <p>veille: Rust, programmation fonctionelle</p>
+      <p>
+        Guitare: Blues, rock <br />
+        Veille: Rust, programmation fonctionelle
+      </p>
     </div>
   </div>
 </template>
@@ -66,8 +66,6 @@ import Competence from "./competences.vue";
 import Experience from "./experiences.vue";
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
 @import "../assets/index.css";
-
 </style>
