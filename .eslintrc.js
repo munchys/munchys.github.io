@@ -10,7 +10,7 @@ module.exports = {
     "plugin:prettier/recommended",
   ],
   parserOptions: {
-    ecmaVersion: 2020,
+    es2021: true,
   },
   rules: {
     "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",

@@ -8,7 +8,7 @@
         </div>
 
         <div class="d-flex flex-column flex-end text-end">
-          <i>>4 rue Henri-Théodore Driollet <br />44300 Nantes <br />FRANCE</i
+          <i>4 rue Henri-Théodore Driollet <br />44300 Nantes <br />FRANCE</i
           ><br />
           <i>tél: <a href="tel:+33 663212663">+33 663212663</a> </i><br />
           <i
@@ -61,14 +61,9 @@
   </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from "vue";
+<script setup lang="ts">
 import Competence from "./competences.vue";
 import Experience from "./experiences.vue";
-export default defineComponent({
-  name: "HelloWorld",
-  components: { Competence, Experience },
-});
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
