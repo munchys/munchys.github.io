@@ -20,7 +20,6 @@
       </div>
     </div>
 
-   
     <Competence />
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
@@ -66,6 +65,6 @@ import Competence from "./competences.vue";
 import Experience from "./experiences.vue";
 </script>
 
-<style>
-@import "../assets/index.css";
+<style scoped lang="css">
+@import "@/assets/index.css";
 </style>

@@ -3,8 +3,7 @@ import cv from "./components/cv.vue";
 </script>
 
 <template>
-    <cv />
+  <cv />
 </template>
 
-<style>
-</style>
+<style></style>

@@ -1,11 +1,11 @@
 <template>
- <h2 class="titre-before souligne">Compétences</h2>
+  <h2 class="titre-before souligne">Compétences</h2>
   <div class="container-lg d-flex flex-wrap">
     <div class="section p-2">
       <h3>Langages</h3>
       <ul>
         <li>Typescript</li>
-        <li>Javascript (ES6) </li>
+        <li>Javascript (ES6)</li>
         <li>PHP 7</li>
         <li>SQL</li>
         <li>Python</li>
@@ -45,7 +45,7 @@
         <li>Linux Debian/Ubuntu</li>
       </ul>
     </div>
-     <div class="section p-2">
+    <div class="section p-2">
       <h3>Langues</h3>
       <ul>
         <li>Français: natif</li>
