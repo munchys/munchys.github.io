@@ -13,11 +13,13 @@
 .souligne {
   border-bottom: solid 2px var(--cv-color);
 }
-ul {
+ul  {
   list-style: none;
+}
+ul:not(.nested) {
   padding-left: 0;
 }
-ul li {
+ul:not(.nested) li {
   margin: none;
   padding: 0;
 }

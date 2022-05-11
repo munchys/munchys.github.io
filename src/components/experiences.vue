@@ -20,11 +20,14 @@
           <li>Maintenance corrective et évolutive</li>
           <li>Déploiement de l'application</li>
           <li>Mise en place de la procédure de déploiement</li>
-          <li>Migration de l'application jQuery vers vue3/typescript</li>
           <li>
             <i>Technologies utilisées: </i>
-            Typescript, Vue, jQuery, Postgres, PHP, GitLab, git, docker,
-            webpack, AWS EC2, AWS RDS
+            <ul class="nested">
+              <li>DevoOps: docker, docker-compose, AWS EC 2</li>
+              <li>front-end: vuejs typescript, jQuery</li>
+              <li>Gestion de version: git, gitlab</li>
+              <li>Base de données: Postgres</li>
+            </ul>
           </li>
         </ul>
       </div>

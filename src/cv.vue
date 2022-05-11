@@ -19,7 +19,7 @@
         </div>
       </div>
     </div>
-
+    <Accorche />
     <Competence />
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
@@ -61,10 +61,11 @@
 </template>
 
 <script setup lang="ts">
-import Competence from "./competences.vue";
-import Experience from "./experiences.vue";
+import Competence from "./components/competences.vue";
+import Experience from "./components/experiences.vue";
+import Accorche from "./components/accroche.vue";
 </script>
 
-<style scoped lang="css">
+<style lang="css">
 @import "@/assets/index.css";
 </style>
