@@ -8,26 +8,7 @@
         <li>Javascript (ES6)</li>
         <li>PHP 7</li>
         <li>SQL</li>
-        <li>Python</li>
-        <li>bash/zsh</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>Frameworks</h3>
-      <ul>
-        <li>vue (compositionAPI/optionAPI)</li>
-        <li>jQuery</li>
-        <li>Pyramid (Python)</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>Outils</h3>
-      <ul>
-        <li>git/gitlab</li>
-        <li>PHPstorm</li>
-        <li>VS code</li>
-        <li>docker</li>
-        <li>AWS (EC2 / RDS)</li>
+        <li>Python3</li>
       </ul>
     </div>
     <div class="section p-2">
@@ -39,17 +20,25 @@
       </ul>
     </div>
     <div class="section p-2">
-      <h3>Systèmes</h3>
+      <h3>DevOPS</h3>
       <ul>
-        <li>Windows 10</li>
-        <li>Linux Debian/Ubuntu</li>
+        <li>Docker</li>
+        <li>Docker Compose</li>
+        <li>AWS (EC2 / RDS)</li>
+        <li>git/GitLab</li>
+      </ul>
+    </div>
+    <div class="section p-2">
+      <h3>Frameworks</h3>
+      <ul>
+        <li>vue.js</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Langues</h3>
       <ul>
         <li>Français: natif</li>
-        <li>Anglais: Intermédiaire</li>
+        <li>Anglais: Avancé</li>
       </ul>
     </div>
   </div>

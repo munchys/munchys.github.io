@@ -19,7 +19,7 @@
         </div>
       </div>
     </div>
-    <Accorche />
+    <!-- <Accorche /> -->
     <Competence />
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
@@ -51,12 +51,8 @@
     </div>
 
     <h2 class="titre-before souligne">Divers</h2>
-    <div class="container-g">
-      <p>
-        Guitare: Blues, rock <br />
-        Veille: Rust, programmation fonctionelle
-      </p>
-    </div>
+    <div class="container-lg">Musique: guitare</div>
+    <div class="container-lg"></div>
   </div>
 </template>
 

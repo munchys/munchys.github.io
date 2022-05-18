@@ -15,18 +15,22 @@
         </p>
 
         <ul>
-          Développement et maintenance d'une application de planification de
-          chantier de construction
-          <li>Maintenance corrective et évolutive</li>
-          <li>Déploiement de l'application</li>
-          <li>Mise en place de la procédure de déploiement</li>
+          Développer et maintenir une application de planification de chantiers
+          de construction
+          <li>Rédaction de spécification et de documentation</li>
+          <li>Éffectuer la maintenance corrective et évolutive</li>
+          <li>Mettre en place de la procédure de déploiement</li>
+          <li>Déployer l'application</li>
+          <li>Travailler en équipe de 4 en mode Kanban</li>
+          <li>Gérer le support client</li>
           <li>
             <i>Technologies utilisées: </i>
             <ul class="nested">
               <li>DevoOps: docker, docker-compose, AWS EC 2</li>
-              <li>front-end: vuejs typescript, jQuery</li>
-              <li>Gestion de version: git, gitlab</li>
-              <li>Base de données: Postgres</li>
+              <li>front-end: vue.js Typescript</li>
+              <li>back-end: PHP 7</li>
+              <li>Gestion de version: git, GitLab</li>
+              <li>Base de données: PostgreSQL</li>
             </ul>
           </li>
         </ul>
@@ -37,36 +41,12 @@
       <div class="col-10 col-sm-10">
         <b><i>Développeur Python</i>, Easter-eggs, Paris, France</b>
         <p>
-          Dévelopment d'une API de localisation d'adresse (Pyramid) <br />
+          Développer une API de localisation d'adresse <br />
           Améliorer le temps d'import de données de la base nationale d'adresse
-          de 100% en utilisant le multiprocessing <br />
+          française de 100% en utilisant le multiprocessing <br />
 
-          <i>Technologies utilisées: </i> Python2, Pyramid, MongoDB
-        </p>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-2 col-sm-2"><b>Juillet - Septembre 2013</b></div>
-      <div class="col-10 col-sm-10">
-        <p>
-          <b><i>Développeur PHP</i>, UmanIT, Nantes, France</b>
-        </p>
-        <p>Migration d'une application du CMS EzPublish vers Symphony 2</p>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-2 col-sm-2"><b>2010</b></div>
-      <div class="col-10 col-sm-10">
-        <p>
-          <b
-            ><i>Technicien support</i>, Stream Global Service, Angers, France</b
-          >
-        </p>
-        <p>
-          Support client pour le compte d'un fourniseur d'accès internet
-          français
+          <i>Technologies utilisées: </i> Python2, Pyramid framework, MongoDB,
+          n-grammes, distance de Levenshtein
         </p>
       </div>
     </div>
