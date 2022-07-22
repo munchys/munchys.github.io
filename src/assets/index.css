@@ -2,9 +2,7 @@
   --cv-color:#3873b3;
 }
 
-.section {
-  width: 33%;
-}
+
 .section h3 {
   display: inline-block;
   border-bottom: solid 2px var(--cv-color);

@@ -24,21 +24,27 @@
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
     <div class="row">
-      <div class="col-2 col-sm-2"><b> 2017-2019</b></div>
+      <div class="col-2 col-sm-2"><b>Janvier 2018 - Octobre 2019</b></div>
       <div class="col-10 col-sm-10">
-        <b> Responsable en ingénierie logiciel, CESI Nantes, niveau DESS </b>
+        <b> Responsable en ingénierie logiciel, CESI Nantes, FRANCE</b>
         :
-        <p>
-          Java, PHP, Javascript, nodejs, SQL Développment d'un site de roulette
-          de casino en node.js, avec Websockets,
-          <br />Technologies: NodeJS, MySQL, Websockets
-        </p>
+        <ul>
+          <li>Analyser, modéliser, concevoir et développer les solutions
+            logicielles
+          </li>
+          <li>Organiser et piloter un projet informatique.</li>
+          <li>Manager le service informatique.</li>
+          <li>Accompagner la stratégie de l’entreprise dans ses évolutions numériques.</li>
+          <li>Mettre en service, maintenir et sécuriser les applications
+            informatiques.
+          </li>
+        </ul>
       </div>
 
       <div class="row">
-        <div class="col-2 col-sm-2"><b> 2013</b></div>
+        <div class="col-2 col-sm-2"><b>Janvier 2013 - Septembre 2013</b></div>
         <div class="col-10 col-sm-10">
-          <b> Dévelopeur logiciel AFPA ANGERS, niveau DEC-T</b>:
+          <b> Développeur logiciel AFPA ANGERS, FRANCE</b>:
           <ul>
             <li>
               Écrire des requêtes avec langage de base de données SQL sur MSSQL
@@ -48,8 +54,19 @@
           </ul>
         </div>
       </div>
+      <div class="row">
+        <div class="col-2 col-sm-2"><b>2005</b></div>
+        <div class="col-10 col-sm-10">
+          <b> Technicien supérieur en application électronique (Non obtenu), AFPA, Angers, FRANCE</b>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-2 col-sm-2"><b>2000 - 2002</b></div>
+        <div class="col-10 col-sm-10">
+          <b>BEP des métiers de l'électronique Lycée Chevrollier, Angers, FRANCE</b>
+        </div>
+      </div>
     </div>
-
     <h2 class="titre-before souligne">Divers</h2>
     <div class="container-lg">Musique: guitare</div>
     <div class="container-lg"></div>
@@ -59,7 +76,6 @@
 <script setup lang="ts">
 import Competence from "./components/competences.vue";
 import Experience from "./components/experiences.vue";
-import Accorche from "./components/accroche.vue";
 </script>
 
 <style lang="css">
