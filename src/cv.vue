@@ -19,14 +19,13 @@
         </div>
       </div>
     </div>
-    <!-- <Accorche /> -->
     <Competence />
     <Experience />
     <h2 class="titre-before souligne">Éducation</h2>
     <div class="row">
       <div class="col-2 col-sm-2"><b> 2017-2019</b></div>
       <div class="col-10 col-sm-10">
-        <b> Responsable en ingénierie logiciel, CESI Nantes, niveau DESS </b>
+        <b> Responsable en ingénierie logiciel, CESI Nantes, BAC + 4 </b>
         :
         <p>
           Java, PHP, Javascript, nodejs, SQL Développment d'un site de roulette
@@ -38,7 +37,7 @@
       <div class="row">
         <div class="col-2 col-sm-2"><b> 2013</b></div>
         <div class="col-10 col-sm-10">
-          <b> Dévelopeur logiciel AFPA ANGERS, niveau DEC-T</b>:
+          <b> Dévelopeur logiciel AFPA ANGERS, BAC + 2 </b>:
           <ul>
             <li>
               Écrire des requêtes avec langage de base de données SQL sur MSSQL

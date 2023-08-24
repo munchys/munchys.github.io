@@ -3,7 +3,7 @@
   <div class="container-lg">
     <div class="row">
       <div class="col-2 col-sm-2">
-        <b>Janvier 2018 - aujourd'hui</b>
+        <b>Janvier 2018 - Juillet 2023</b>
       </div>
       <div class="col-10 col-sm-10">
         <p>
