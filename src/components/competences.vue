@@ -31,7 +31,8 @@
     <div class="section p-2">
       <h3>Frameworks</h3>
       <ul>
-        <li>vue.js</li>
+        <li>Vue 3</li>
+        <li>Nest.js</li>
       </ul>
     </div>
     <div class="section p-2">
