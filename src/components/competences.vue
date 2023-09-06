@@ -4,41 +4,37 @@
     <div class="section p-2">
       <h3>Langages</h3>
       <ul>
-        <li>Typescript</li>
-        <li>Javascript (ES6)</li>
+        <li>Typescript / Javascript (ES6)</li>
         <li>PHP 7</li>
         <li>SQL</li>
-        <li>Python3</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Base de données</h3>
       <ul>
         <li>PostgreSQL</li>
-        <li>MongoDB</li>
         <li>MySQL</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>DevOPS</h3>
       <ul>
-        <li>Docker</li>
-        <li>Docker Compose</li>
+        <li>Docker / Docker Compose</li>
         <li>AWS (EC2 / RDS)</li>
-        <li>git/GitLab</li>
+        <li>Git/GitLab</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Frameworks</h3>
       <ul>
-        <li>Vue 3</li>
+        <li>Vue.js</li>
         <li>Nest.js</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Langues</h3>
       <ul>
-        <li>Français: natif</li>
+        <li>Français: Natif</li>
         <li>Anglais: Avancé</li>
       </ul>
     </div>

@@ -3,7 +3,37 @@
   <div class="container-lg">
     <div class="row">
       <div class="col-2 col-sm-2">
-        <b>Janvier 2018 - Août 2023</b>
+        <b>Avril 2023 - Août 2023</b>
+      </div>
+      <div class="col-10 col-sm-10">
+        <p>
+          <b>
+            <i>Développeur Fullstack</i>
+            , LeanCo, Mission chez Matos-BTP, Nantes, France
+          </b>
+          :
+        </p>
+        <ul>
+          Développer et maintenir une application de mise en relation entre
+          <br/>locatier d'engins de chantiers et les entreprise utilisatrices
+          <li>Travailler en équipe en mode agile</li>
+          <li>Rédiger la documentation</li>
+          <li>Migrer les fonctionnalités en PHP Symfony vers NodeJS / VueJS</li>
+          <li>Maintenance évolutive de l'application</li>
+          <li>
+            <i>Technologies utilisées: </i>
+            <ul class="nested">
+              <li>DevOps: Docker, Google Cloud Platform</li>
+              <li>front-end: vue 2 (composition API) / Typescript / GraphQL</li>
+              <li>back-end: PHP 7 / Symfony et NodeJS / NestJS</li>
+              <li>Gestion de version: Git, Bitbucket</li>
+              <li>Base de données: MySQL</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="col-2 col-sm-2">
+        <b>Janvier 2018 - Avril 2023</b>
       </div>
       <div class="col-10 col-sm-10">
         <p>
@@ -13,21 +43,6 @@
           </b>
           :
         </p>
-        <ul>
-          Dévelopeur Fullstack pour MatosBTP
-          <li>Travailler en équipe de 4 en mode agile</li>
-          <li>Développer les fonctionnalités </li>
-          <li>
-            <i>Technologies utilisées: </i>
-            <ul class="nested">
-              <li>DevOps: docker, Google Cloud platform</li>
-              <li>front-end: vue 2 (composition API)  / Typescript / GraphQL</li>
-              <li>back-end: PHP 7-Symfony / NodeJS-NestJS</li>
-              <li>Gestion de version: git, bitbucket</li>
-              <li>Base de données: MySQL</li>
-            </ul>
-          </li>
-        </ul>
         <ul>
           Développer et maintenir une application de planification de chantiers
           de construction
