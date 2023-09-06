@@ -25,19 +25,19 @@
         <li>Docker</li>
         <li>Docker Compose</li>
         <li>AWS (EC2 / RDS)</li>
-        <li>git/GitLab</li>
+        <li>Git/GitLab</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Frameworks</h3>
       <ul>
-        <li>vue.js</li>
+        <li>Vue.js</li>
       </ul>
     </div>
     <div class="section p-2">
       <h3>Langues</h3>
       <ul>
-        <li>Français: natif</li>
+        <li>Français: Natif</li>
         <li>Anglais: Avancé</li>
       </ul>
     </div>

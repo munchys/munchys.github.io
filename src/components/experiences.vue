@@ -3,7 +3,7 @@
   <div class="container-lg">
     <div class="row">
       <div class="col-2 col-sm-2">
-        <b>Janvier 2018 - Juillet 2023</b>
+        <b>Janvier 2018 - Août 2023</b>
       </div>
       <div class="col-10 col-sm-10">
         <p>
@@ -45,8 +45,7 @@
           Améliorer le temps d'import de données de la base nationale d'adresse
           française de 100% en utilisant le multiprocessing <br />
 
-          <i>Technologies utilisées: </i> Python2, Pyramid framework, MongoDB,
-          n-grammes, distance de Levenshtein
+          <i>Technologies utilisées: </i> Python2, Pyramid framework, MongoDB
         </p>
       </div>
     </div>
