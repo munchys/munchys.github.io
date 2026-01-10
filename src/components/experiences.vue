@@ -1,5 +1,7 @@
 <template>
-  <h2 class="titre-before souligne">Expériences</h2>
+  <div class="souligne">
+    <h2 class="titre-before">Expériences</h2>
+  </div>
   <div class="container-lg">
     <div class="row">
       <div class="col-2 col-sm-2">
