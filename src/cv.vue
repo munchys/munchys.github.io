@@ -1,14 +1,18 @@
 <template>
-  <div class="container-lg">
-    <div class="entetes">
+  <div class="container-lg py-5">
+    <div>
       <div class="d-flex justify-content-between">
-        <div class="me-auto d-flex flex-column titres">
+        <div class="me-auto flex flex-column titres">
           <h1>Fabien Morinière</h1>
           <h2><i>Développeur Fullstack</i></h2>
         </div>
 
-        <div class="d-flex flex-column flex-end text-end">
-          <i>4 rue Henri-Théodore Driollet <br />44300 Nantes <br />FRANCE </i>
+        <div class="flex flex-column text-end">
+          <i
+            ><p class="m-0">499 route de saint joseph</p>
+            <p class="m-0">44300 Nantes</p>
+            <p class="m-0">FRANCE</p>
+          </i>
           <i>tél: <a href="tel:+33663212663">+33 663212663</a> </i><br />
           <i>
             courriel:
@@ -21,7 +25,9 @@
     </div>
     <Competence />
     <Experience />
-    <h2 class="titre-before souligne">Éducation</h2>
+    <div class="souligne">
+      <h2 class="titre-before">Éducation</h2>
+    </div>
     <div class="row">
       <div class="col-2 col-sm-2"><b> 2017-2019</b></div>
       <div class="col-10 col-sm-10">
@@ -58,7 +64,6 @@
 <script setup lang="ts">
 import Competence from "./components/competences.vue";
 import Experience from "./components/experiences.vue";
-import Accorche from "./components/accroche.vue";
 </script>
 
 <style lang="css">

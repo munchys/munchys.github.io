@@ -1,3 +1,5 @@
+
+
 :root{
   --cv-color:#3873b3;
 }
@@ -38,6 +40,10 @@ ul li::before {
   height: 0.8rem;
   min-width: 3rem;
   margin-bottom: 0.2rem;
-  margin-right: 0.3rem;
+  margin-right: 0.5rem;
   background-color: var(--cv-color);
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

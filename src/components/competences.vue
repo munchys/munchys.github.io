@@ -1,5 +1,7 @@
 <template>
-  <h2 class="titre-before souligne">Compétences</h2>
+  <div class="souligne w-full">
+    <h2 class="titre-before">Compétences</h2>
+  </div>
   <div class="container-lg d-flex flex-wrap">
     <div class="section p-2">
       <h3>Langages</h3>
