@@ -6,7 +6,6 @@
           <h1>Fabien Morinière</h1>
           <h2><i>Développeur Fullstack</i></h2>
         </div>
-
         <div class="flex flex-column text-end">
           <i
             ><p class="m-0">499 route de saint joseph</p>

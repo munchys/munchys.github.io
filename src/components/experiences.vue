@@ -17,7 +17,7 @@
         </p>
         <ul>
           Développer et maintenir une application de mise en relation entre
-          <br/>locatier d'engins de chantiers et les entreprise utilisatrices
+          <br />locatier d'engins de chantiers et les entreprise utilisatrices
           <li>Travailler en équipe en mode agile</li>
           <li>Rédiger la documentation</li>
           <li>Migrer les fonctionnalités en PHP Symfony vers NodeJS / VueJS</li>

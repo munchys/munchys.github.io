@@ -22,7 +22,7 @@ ul:not(.nested) {
   padding-left: 0;
 }
 ul:not(.nested) li {
-  margin: none;
+  margin: 0;
   padding: 0;
 }
 ul li::before {
@@ -43,7 +43,3 @@ ul li::before {
   margin-right: 0.5rem;
   background-color: var(--cv-color);
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
