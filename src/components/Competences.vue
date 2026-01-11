@@ -40,14 +40,15 @@
         <li>Anglais: Avancé</li>
       </ul>
     </div>
+    <div class="section p-2">
+      <h3>Autres</h3>
+      <ul>
+        <li>Développer des sites web accessibles</li>
+        <li>Anglais: Avancé</li>
+      </ul>
+    </div>
   </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from "vue";
-
-export default defineComponent({
-  name: "CompetencePart",
-});
-</script>
+<script setup lang="ts"></script>
 <style scoped></style>

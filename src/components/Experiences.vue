@@ -5,6 +5,41 @@
   <div class="container-lg">
     <div class="row">
       <div class="col-2 col-sm-2">
+        <b>Octobre 2023 - Aujourd'hui</b>
+      </div>
+      <div class="col-10 col-sm-10">
+        <p>
+          <b>
+            <i>Développeur Fullstack</i>
+            , CGI, Service publique, Nantes, France
+          </b>
+          :
+        </p>
+        <ul class="col-6">
+          Développer et maintenir une application de mise en relation entre
+          locatier d'engins de chantiers et les entreprise utilisatrices
+          <li>Travailler en équipe en mode agile</li>
+          <li>Relecture de code</li>
+          <li>Animation de point de partage de connaissance dans l'équipe</li>
+          <li>Référent front-end vueJS</li>
+          <li>Conformité à laccessibilité</li>
+          <li>
+            <i>Technologies utilisées: </i>
+            <ul class="nested">
+              <li>
+                front-end: vue 3 (composition API et Option API) / Typescript
+              </li>
+              <li>Java Spring boot</li>
+              <li>Gestion de version: Git, Gitlab</li>
+              <li>Base de données: Postgres</li>
+              <li>Annuaire: LDAP</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-2 col-sm-2">
         <b>Avril 2023 - Août 2023</b>
       </div>
       <div class="col-10 col-sm-10">
@@ -28,12 +63,15 @@
               <li>DevOps: Docker, Google Cloud Platform</li>
               <li>front-end: vue 2 (composition API) / Typescript / GraphQL</li>
               <li>back-end: PHP 7 / Symfony et NodeJS / NestJS</li>
+              <li>Mobile: React native, firebase</li>
               <li>Gestion de version: Git, Bitbucket</li>
               <li>Base de données: MySQL</li>
             </ul>
           </li>
         </ul>
       </div>
+    </div>
+    <div class="row">
       <div class="col-2 col-sm-2">
         <b>Janvier 2018 - Avril 2023</b>
       </div>
@@ -54,6 +92,7 @@
           <li>Déployer l'application</li>
           <li>Travailler en équipe de 4 en mode Kanban</li>
           <li>Gérer le support client</li>
+          <li>Mobile: Ionic, Capacitor, vue</li>
           <li>
             <i>Technologies utilisées: </i>
             <ul class="nested">
