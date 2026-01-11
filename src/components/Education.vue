@@ -7,14 +7,19 @@
   <div class="row">
     <div class="col-2 col-sm-2"><b> 2025</b></div>
     <div class="col-10 col-sm-10">
-      <b>Certification RGAA</b>:
+      <b
+        >Certification développer des sites web accessibles et conforme au
+        RGAA</b
+      >:
       <ul>
         <li>
-          Développer des sites web accessibls et conforme au RGAA
+          Développer des sites web accessibles et conforme au Référentiel
+          général d'amélioration de l'accessibilité - RGAA
+        </li>
+        <li>
           <a
             href="https://certificate.bcdiploma.com/check/8C970105A7709394C039B4C40FA7BBCCFC66AE3A61C19A873BB490C93AE6A77CK25QL000aDZ1NGlQK1RNOWV4dnppVW5MUk8rUWVCUXpHZEhsb1FqemhoRXRTTDlM"
-          >
-            Certificat
+            >Certificat d'obtention
           </a>
         </li>
       </ul>

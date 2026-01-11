@@ -22,7 +22,7 @@
           <li>Relecture de code</li>
           <li>Animation de point de partage de connaissance dans l'équipe</li>
           <li>Référent front-end vueJS</li>
-          <li>Conformité à laccessibilité</li>
+          <li>Conformité à l'accessibilité</li>
           <li>
             <i>Technologies utilisées: </i>
             <ul class="nested">
@@ -101,6 +101,42 @@
               <li>back-end: PHP 7</li>
               <li>Gestion de version: git, GitLab</li>
               <li>Base de données: PostgreSQL</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-2 col-sm-2">
+        <b>Janvier 2017 - Mars 2017</b>
+      </div>
+      <div class="col-10 col-sm-10">
+        <p>
+          <b>
+            <i>Développeur </i>
+            , Easter Egss, Paris, France
+          </b>
+          :
+        </p>
+        <ul class="col-8">
+          Développer une API de recherche d'adresse
+          <li>
+            Mise en place de l'import des données depuis la base nationale
+            d'adresse
+          </li>
+          <li>Création de la structure des données</li>
+          <li>Mise en place d'une recherche d'adresse</li>
+          <li>
+            Développer une interface de test pour valider les coordonnées d'une
+            adresse
+          </li>
+          <li>
+            <i>Technologies utilisées: </i>
+            <ul class="nested">
+              <li>Python 2.7, Pyramid framework</li>
+              <li>Gestion de version: Git, Gitlab</li>
+              <li>Base de données: MongoDB</li>
+              <li>Carte: Leaflet</li>
             </ul>
           </li>
         </ul>
