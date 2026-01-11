@@ -1,4 +1,11 @@
 
+.break-inside-page {
+  break-inside: avoid-page;
+}
+
+.page-break-before {
+  break-before: left;
+}
 
 :root{
   --cv-color:#3873b3;

@@ -1,51 +1,53 @@
 <template>
-  <div class="souligne w-full">
-    <h2 class="titre-before">Compétences</h2>
-  </div>
-  <div class="container-lg d-flex flex-wrap">
-    <div class="section p-2">
-      <h3>Langages</h3>
-      <ul>
-        <li>Typescript / Javascript (ES6)</li>
-        <li>PHP 7</li>
-        <li>SQL</li>
-      </ul>
+  <div class="break-inside-page">
+    <div class="souligne w-full">
+      <h2 class="titre-before">Compétences</h2>
     </div>
-    <div class="section p-2">
-      <h3>Base de données</h3>
-      <ul>
-        <li>PostgreSQL</li>
-        <li>MySQL</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>DevOPS</h3>
-      <ul>
-        <li>Docker / Docker Compose</li>
-        <li>AWS (EC2 / RDS)</li>
-        <li>Git/GitLab</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>Frameworks</h3>
-      <ul>
-        <li>Vue.js</li>
-        <li>Nest.js</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>Langues</h3>
-      <ul>
-        <li>Français: Natif</li>
-        <li>Anglais: Avancé</li>
-      </ul>
-    </div>
-    <div class="section p-2">
-      <h3>Autres</h3>
-      <ul>
-        <li>Développer des sites web accessibles</li>
-        <li>Anglais: Avancé</li>
-      </ul>
+    <div class="container-lg d-flex flex-wrap">
+      <div class="section p-2">
+        <h3>Langages</h3>
+        <ul>
+          <li>Typescript / Javascript (ES6)</li>
+          <li>PHP 7</li>
+          <li>SQL</li>
+        </ul>
+      </div>
+      <div class="section p-2">
+        <h3>Base de données</h3>
+        <ul>
+          <li>PostgreSQL</li>
+          <li>MySQL</li>
+        </ul>
+      </div>
+      <div class="section p-2">
+        <h3>DevOPS</h3>
+        <ul>
+          <li>Docker / Docker Compose</li>
+          <li>AWS (EC2 / RDS)</li>
+          <li>Git/GitLab</li>
+        </ul>
+      </div>
+      <div class="section p-2">
+        <h3>Frameworks</h3>
+        <ul>
+          <li>Vue.js</li>
+          <li>Nest.js</li>
+        </ul>
+      </div>
+      <div class="section p-2">
+        <h3>Langues</h3>
+        <ul>
+          <li>Français: Natif</li>
+          <li>Anglais: Avancé</li>
+        </ul>
+      </div>
+      <div class="section p-2">
+        <h3>Autres</h3>
+        <ul>
+          <li>Développer des sites web accessibles</li>
+          <li>Anglais: Avancé</li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>

@@ -1,11 +1,9 @@
 <template>
-  <div class="container-lg py-5">
+  <main role="main" class="container-lg py-5">
     <div>
       <div class="d-flex justify-content-between">
         <div class="me-auto flex flex-column titres">
-          <h1>
-            Fabien Morinière <i class="d-block h2">Développeur Fullstack</i>
-          </h1>
+          <h1>Fabien Morinière <i class="d-block h2">Développeur</i></h1>
         </div>
         <div class="flex flex-column text-end">
           <i
@@ -31,10 +29,10 @@
     <h2 class="titre-before souligne">Divers</h2>
     <div class="container-lg">Musique: guitare</div>
     <div class="container-lg"></div>
-  </div>
+  </main>
 </template>
 
-<script setup lang="ts">
+<script vapor setup lang="ts">
 import Competences from "./components/Competences.vue";
 import Experiences from "./components/Experiences.vue";
 import Education from "./components/Education.vue";
