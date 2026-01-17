@@ -6,7 +6,7 @@
     <div class="container-lg">
       <div class="row break-inside-page">
         <div class="col-2 col-sm-2">
-          <b>Octobre 2023 - Aujourd'hui</b>
+          <b>10/2023 - Aujourd'hui</b>
         </div>
         <div class="col-10 col-sm-10">
           <p>
@@ -22,15 +22,19 @@
             <li>Travailler en équipe en mode agile</li>
             <li>Relecture de code</li>
             <li>Animation de point de partage de connaissance dans l'équipe</li>
+            <li>
+              Suivi des métriques qualité (bonnes pratiques, remontés Sonar,
+              couverture de tests back et front)
+            </li>
             <li>Référent front-end vueJS</li>
             <li>Conformité à l'accessibilité</li>
             <li>
               <i>Technologies utilisées: </i>
               <ul class="nested">
                 <li>
-                  front-end: vue 3 (composition API et Option API) / Typescript
+                  Front-end: vue 3 (composition API et Option API) / Typescript
                 </li>
-                <li>Java Spring boot</li>
+                <li>Java 11 ou 17 / Spring boot</li>
                 <li>Gestion de version: Git, Gitlab</li>
                 <li>Base de données: Postgres</li>
                 <li>Annuaire: LDAP</li>
@@ -41,7 +45,7 @@
       </div>
       <div class="row break-inside-page">
         <div class="col-2 col-sm-2">
-          <b>Avril 2023 - Août 2023</b>
+          <b>04/2023 - 08/2023</b>
         </div>
         <div class="col-10 col-sm-10">
           <p>
@@ -71,6 +75,7 @@
                 <li>Mobile: React native, firebase</li>
                 <li>Gestion de version: Git, Bitbucket</li>
                 <li>Base de données: MySQL</li>
+                <li>Environment de travail: Linux (Ubuntu)</li>
               </ul>
             </li>
           </ul>
@@ -78,7 +83,7 @@
       </div>
       <div class="row break-inside-page">
         <div class="col-2 col-sm-2">
-          <b>Janvier 2018 - Avril 2023</b>
+          <b> 01/2018 - 04/2023</b>
         </div>
         <div class="col-10 col-sm-10">
           <p>
@@ -106,6 +111,7 @@
                 <li>back-end: PHP 7</li>
                 <li>Gestion de version: git, GitLab</li>
                 <li>Base de données: PostgreSQL</li>
+                <li>Environment de travail: Linux (Arch / Ubuntu)</li>
               </ul>
             </li>
           </ul>
@@ -113,7 +119,7 @@
       </div>
       <div class="row break-inside-page">
         <div class="col-2 col-sm-2">
-          <b>Janvier 2017 - Mars 2017</b>
+          <b>01/2017 - 03/2017</b>
         </div>
         <div class="col-10 col-sm-10">
           <p>

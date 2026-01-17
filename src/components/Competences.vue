@@ -8,7 +8,7 @@
         <h3>Langages</h3>
         <ul>
           <li>Typescript / Javascript (ES6)</li>
-          <li>PHP 7</li>
+          <li>Java 17</li>
           <li>SQL</li>
         </ul>
       </div>
@@ -22,16 +22,16 @@
       <div class="section p-2">
         <h3>DevOPS</h3>
         <ul>
-          <li>Docker / Docker Compose</li>
+          <li>Docker</li>
           <li>AWS (EC2 / RDS)</li>
-          <li>Git/GitLab</li>
+          <li>Git / GitLab</li>
         </ul>
       </div>
       <div class="section p-2">
         <h3>Frameworks</h3>
         <ul>
           <li>Vue.js</li>
-          <li>Nest.js</li>
+          <li>Spring</li>
         </ul>
       </div>
       <div class="section p-2">
@@ -45,7 +45,6 @@
         <h3>Autres</h3>
         <ul>
           <li>Développer des sites web accessibles</li>
-          <li>Anglais: Avancé</li>
         </ul>
       </div>
     </div>
