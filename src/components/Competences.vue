@@ -44,7 +44,6 @@
       <h3>Autres</h3>
       <ul>
         <li>Développer des sites web accessibles</li>
-        <li>Anglais: Avancé</li>
       </ul>
     </div>
   </div>
