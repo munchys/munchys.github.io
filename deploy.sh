@@ -8,6 +8,6 @@ cd dist
 git init
 git add -A
 git commit -m "Nouveau deploiement"
-git push -f  https://github.com/munchys/munchys.github.io.git main:cv
+git push -f git@github.com:munchys/munchys.github.io.git master:cv
 
 cd -
