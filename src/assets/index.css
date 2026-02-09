@@ -10,7 +10,8 @@
 .section h3 {
   display: inline-block;
   border-bottom: solid 2px var(--cv-color);
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
+
 }
 .souligne {
   border-bottom: solid 2px var(--cv-color);

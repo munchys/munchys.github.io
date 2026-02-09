@@ -1,5 +1,5 @@
 <template>
-  <div class="souligne">
+  <div class="souligne mb-3" >
     <h2 class="titre-before">Expériences</h2>
   </div>
   <div class="container-lg">
@@ -15,9 +15,13 @@
           </b>
           :
         </p>
-        <ul class="col-6">
-          Développer et maintenir une application de mise en relation entre
-          locatier d'engins de chantiers et les entreprise utilisatrices
+        <ul>
+          <p class="col-9">
+            Mutliprojets, dont le développement d'une application d'envoi d'email et
+            d'un portail applicatif à destination des utilisateurs (100 000 utilisateurs par jour)
+          </p>
+
+
           <li>Travailler en équipe en mode agile</li>
           <li>Relecture de code</li>
           <li>Animation de point de partage de connaissance dans l'équipe</li>
@@ -26,10 +30,8 @@
           <li>
             <i>Technologies utilisées: </i>
             <ul class="nested">
-              <li>
-                front-end: vue 3 (composition API et Option API) / Typescript
-              </li>
-              <li>Java Spring boot</li>
+              <li>Front-end: vue 3 (composition API et Option API) / Typescript</li>
+              <li>Backend: Java 17 Spring boot 3, Hibernate</li>
               <li>Gestion de version: Git, Gitlab</li>
               <li>Base de données: Postgres</li>
               <li>Annuaire: LDAP</li>
@@ -51,8 +53,8 @@
           :
         </p>
         <ul>
-          Développer et maintenir une application de mise en relation entre
-          <br />locatier d'engins de chantiers et les entreprise utilisatrices
+          <p class="col-9">Développer et maintenir une application de mise en relation entre
+          locatier d'engins de chantiers et les entreprise utilisatrices</p>
           <li>Travailler en équipe en mode agile</li>
           <li>Rédiger la documentation</li>
           <li>Migrer les fonctionnalités en PHP Symfony vers NodeJS / VueJS</li>
@@ -61,7 +63,7 @@
             <i>Technologies utilisées: </i>
             <ul class="nested">
               <li>DevOps: Docker, Google Cloud Platform</li>
-              <li>front-end: vue 2 (composition API) / Typescript / GraphQL</li>
+              <li>Front-end: vue 2 (composition API) / Typescript / GraphQL</li>
               <li>back-end: PHP 7 / Symfony et NodeJS / NestJS</li>
               <li>Mobile: React native, firebase</li>
               <li>Gestion de version: Git, Bitbucket</li>
@@ -84,8 +86,8 @@
           :
         </p>
         <ul>
-          Développer et maintenir une application de planification de chantiers
-          de construction
+          <p>Développer et maintenir une application de planification de chantiers
+          de construction</p>
           <li>Rédaction de spécification et de documentation</li>
           <li>Éffectuer la maintenance corrective et évolutive</li>
           <li>Mettre en place de la procédure de déploiement</li>
@@ -97,8 +99,8 @@
             <i>Technologies utilisées: </i>
             <ul class="nested">
               <li>DevOps: docker, docker-compose, AWS EC 2</li>
-              <li>front-end: vue 3 Typescript</li>
-              <li>back-end: PHP 7</li>
+              <li>Front-end: vue 3 Typescript</li>
+              <li>Back-end: PHP 7</li>
               <li>Gestion de version: git, GitLab</li>
               <li>Base de données: PostgreSQL</li>
             </ul>
@@ -119,7 +121,7 @@
           :
         </p>
         <ul class="col-8">
-          Développer une API de recherche d'adresse
+          <p>Développer une API de recherche d'adresse</p>
           <li>
             Mise en place de l'import des données depuis la base nationale
             d'adresse
@@ -151,3 +153,9 @@ export default defineComponent({
   name: "ExperiencePart",
 });
 </script>
+
+<style>
+.row {
+  page-break-inside: avoid;
+}
+</style>

@@ -28,7 +28,7 @@
     <Competences />
     <Experiences />
     <Education />
-    <h2 class="titre-before souligne">Divers</h2>
+    <h2 class="titre-before souligne mb-3">Divers</h2>
     <div class="container-lg">Musique: guitare</div>
     <div class="container-lg"></div>
   </div>

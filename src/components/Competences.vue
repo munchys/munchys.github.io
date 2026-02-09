@@ -1,5 +1,5 @@
 <template>
-  <div class="souligne w-full">
+  <div class="souligne w-full mb-3">
     <h2 class="titre-before">Compétences</h2>
   </div>
   <div class="container-lg d-flex flex-wrap">
@@ -8,6 +8,7 @@
       <ul>
         <li>Typescript / Javascript (ES6)</li>
         <li>PHP 7</li>
+        <li>Java 17</li>
         <li>SQL</li>
       </ul>
     </div>
@@ -31,6 +32,7 @@
       <ul>
         <li>Vue.js</li>
         <li>Nest.js</li>
+        <li>Spring / Spring boot</li>
       </ul>
     </div>
     <div class="section p-2">
